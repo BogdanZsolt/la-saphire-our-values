@@ -1,344 +1,344 @@
 @-webkit-keyframes animate-lotus {
-  0% {
-    stroke-dashoffset: 0;
-  }
-  40% {
-    stroke-dashoffset: 156;
-  }
-  80% {
-    stroke-dashoffset: 312;
-  }
-  100% {
-    stroke-dashoffset: 312;
-  }
+	0% {
+		stroke-dashoffset: 0;
+	}
+	40% {
+		stroke-dashoffset: 156;
+	}
+	80% {
+		stroke-dashoffset: 312;
+	}
+	100% {
+		stroke-dashoffset: 312;
+	}
 }
 
 @keyframes animate-lotus {
-  0% {
-    stroke-dashoffset: 0;
-  }
-  40% {
-    stroke-dashoffset: 156;
-  }
-  80% {
-    stroke-dashoffset: 312;
-  }
-  100% {
-    stroke-dashoffset: 312;
-  }
+	0% {
+		stroke-dashoffset: 0;
+	}
+	40% {
+		stroke-dashoffset: 156;
+	}
+	80% {
+		stroke-dashoffset: 312;
+	}
+	100% {
+		stroke-dashoffset: 312;
+	}
 }
 
 @-webkit-keyframes animate-lotus-hover {
-  0% {
-    stroke-dashoffset: 156;
-  }
-  100% {
-    stroke-dashoffset: 0;
-  }
+	0% {
+		stroke-dashoffset: 156;
+	}
+	100% {
+		stroke-dashoffset: 0;
+	}
 }
 
 @keyframes animate-lotus-hover {
-  0% {
-    stroke-dashoffset: 156;
-  }
-  100% {
-    stroke-dashoffset: 0;
-  }
+	0% {
+		stroke-dashoffset: 156;
+	}
+	100% {
+		stroke-dashoffset: 0;
+	}
 }
 
 @-webkit-keyframes animate-batch {
-  0% {
-    stroke-dashoffset: 0;
-  }
-  40% {
-    stroke-dashoffset: 97;
-  }
-  80% {
-    stroke-dashoffset: 194;
-  }
-  100% {
-    stroke-dashoffset: 194;
-  }
+	0% {
+		stroke-dashoffset: 0;
+	}
+	40% {
+		stroke-dashoffset: 97;
+	}
+	80% {
+		stroke-dashoffset: 194;
+	}
+	100% {
+		stroke-dashoffset: 194;
+	}
 }
 
 @keyframes animate-batch {
-  0% {
-    stroke-dashoffset: 0;
-  }
-  40% {
-    stroke-dashoffset: 97;
-  }
-  80% {
-    stroke-dashoffset: 194;
-  }
-  100% {
-    stroke-dashoffset: 194;
-  }
+	0% {
+		stroke-dashoffset: 0;
+	}
+	40% {
+		stroke-dashoffset: 97;
+	}
+	80% {
+		stroke-dashoffset: 194;
+	}
+	100% {
+		stroke-dashoffset: 194;
+	}
 }
 
 @-webkit-keyframes animate-batch-hover {
-  0% {
-    stroke-dashoffset: 97;
-  }
-  100% {
-    stroke-dashoffset: 0;
-  }
+	0% {
+		stroke-dashoffset: 97;
+	}
+	100% {
+		stroke-dashoffset: 0;
+	}
 }
 
 @keyframes animate-batch-hover {
-  0% {
-    stroke-dashoffset: 97;
-  }
-  100% {
-    stroke-dashoffset: 0;
-  }
+	0% {
+		stroke-dashoffset: 97;
+	}
+	100% {
+		stroke-dashoffset: 0;
+	}
 }
 
 @keyframes animate-batch {
-  0% {
-    stroke-dashoffset: 0;
-  }
-  40% {
-    stroke-dashoffset: 97;
-  }
-  80% {
-    stroke-dashoffset: 194;
-  }
-  100% {
-    stroke-dashoffset: 194;
-  }
+	0% {
+		stroke-dashoffset: 0;
+	}
+	40% {
+		stroke-dashoffset: 97;
+	}
+	80% {
+		stroke-dashoffset: 194;
+	}
+	100% {
+		stroke-dashoffset: 194;
+	}
 }
 
 @keyframes animate-batch-hover {
-  0% {
-    stroke-dashoffset: 97;
-  }
-  100% {
-    stroke-dashoffset: 0;
-  }
+	0% {
+		stroke-dashoffset: 97;
+	}
+	100% {
+		stroke-dashoffset: 0;
+	}
 }
 
 @-webkit-keyframes animate-beauty {
-  0% {
-    stroke-dashoffset: 0;
-  }
-  40% {
-    stroke-dashoffset: 236;
-  }
-  80% {
-    stroke-dashoffset: 472;
-  }
-  100% {
-    stroke-dashoffset: 472;
-  }
+	0% {
+		stroke-dashoffset: 0;
+	}
+	40% {
+		stroke-dashoffset: 236;
+	}
+	80% {
+		stroke-dashoffset: 472;
+	}
+	100% {
+		stroke-dashoffset: 472;
+	}
 }
 
 @keyframes animate-beauty {
-  0% {
-    stroke-dashoffset: 0;
-  }
-  40% {
-    stroke-dashoffset: 236;
-  }
-  80% {
-    stroke-dashoffset: 472;
-  }
-  100% {
-    stroke-dashoffset: 472;
-  }
+	0% {
+		stroke-dashoffset: 0;
+	}
+	40% {
+		stroke-dashoffset: 236;
+	}
+	80% {
+		stroke-dashoffset: 472;
+	}
+	100% {
+		stroke-dashoffset: 472;
+	}
 }
 
 @-webkit-keyframes animate-beauty-hover {
-  0% {
-    stroke-dashoffset: 236;
-  }
-  100% {
-    stroke-dashoffset: 0;
-  }
+	0% {
+		stroke-dashoffset: 236;
+	}
+	100% {
+		stroke-dashoffset: 0;
+	}
 }
 
 @keyframes animate-beauty-hover {
-  0% {
-    stroke-dashoffset: 236;
-  }
-  100% {
-    stroke-dashoffset: 0;
-  }
+	0% {
+		stroke-dashoffset: 236;
+	}
+	100% {
+		stroke-dashoffset: 0;
+	}
 }
 
 @-webkit-keyframes animate-trusted {
-  0% {
-    stroke-dashoffset: 0;
-  }
-  40% {
-    stroke-dashoffset: 179;
-  }
-  80% {
-    stroke-dashoffset: 358;
-  }
-  100% {
-    stroke-dashoffset: 358;
-  }
+	0% {
+		stroke-dashoffset: 0;
+	}
+	40% {
+		stroke-dashoffset: 179;
+	}
+	80% {
+		stroke-dashoffset: 358;
+	}
+	100% {
+		stroke-dashoffset: 358;
+	}
 }
 
 @keyframes animate-trusted {
-  0% {
-    stroke-dashoffset: 0;
-  }
-  40% {
-    stroke-dashoffset: 179;
-  }
-  80% {
-    stroke-dashoffset: 358;
-  }
-  100% {
-    stroke-dashoffset: 358;
-  }
+	0% {
+		stroke-dashoffset: 0;
+	}
+	40% {
+		stroke-dashoffset: 179;
+	}
+	80% {
+		stroke-dashoffset: 358;
+	}
+	100% {
+		stroke-dashoffset: 358;
+	}
 }
 
 @-webkit-keyframes animate-trusted-hover {
-  0% {
-    stroke-dashoffset: 179;
-  }
-  100% {
-    stroke-dashoffset: 0;
-  }
+	0% {
+		stroke-dashoffset: 179;
+	}
+	100% {
+		stroke-dashoffset: 0;
+	}
 }
 
 @keyframes animate-trusted-hover {
-  0% {
-    stroke-dashoffset: 179;
-  }
-  100% {
-    stroke-dashoffset: 0;
-  }
+	0% {
+		stroke-dashoffset: 179;
+	}
+	100% {
+		stroke-dashoffset: 0;
+	}
 }
 
 .lasaphire-frontend {
-  color: #923243;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
+	color: #923243;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
 }
 
 .lasaphire-feature {
-  margin-bottom: 2.5rem;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-flex: 25%;
-      -ms-flex: 25%;
-          flex: 25%;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+	margin-bottom: 2.5rem;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-flex: 25%;
+	-ms-flex: 25%;
+	flex: 25%;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-ms-flex-direction: column;
+	flex-direction: column;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
 }
 
 .lasaphire-feature p {
-  font-size: 0.875rem;
-  padding: 0.625rem;
-  font-weight: 400;
-  line-height: 1.25;
-  text-align: justify;
+	font-size: 0.875rem;
+	padding: 0.625rem;
+	font-weight: 400;
+	line-height: 1.25;
+	text-align: justify;
 }
 
 .lasaphire-svgicon {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  width: 9.375rem;
-  height: 9.375rem;
-  padding: 1.25rem;
-  margin: 3.125rem;
-  border: 1px solid #923243;
-  -webkit-box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
-          box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
-  border-radius: 10px;
-  -ms-flex-item-align: center;
-      align-self: center;
-  justify-self: center;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-ms-flex-direction: column;
+	flex-direction: column;
+	width: 9.375rem;
+	height: 9.375rem;
+	padding: 1.25rem;
+	margin: 3.125rem;
+	border: 1px solid #923243;
+	-webkit-box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
+	box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
+	border-radius: 10px;
+	-ms-flex-item-align: center;
+	align-self: center;
+	justify-self: center;
 }
 
 .lasaphire-svgicon path {
-  fill: transparent;
-  stroke-width: 3;
-  stroke: #f1e3e6;
+	fill: transparent;
+	stroke-width: 3;
+	stroke: #f1e3e6;
 }
 
 .lasaphire-svgicon.lotus {
-  background: url("../img/feature-texture-01.jpg");
+	background: url("../img/feature-texture-01.jpg");
 }
 
 .lasaphire-svgicon.lotus path {
-  stroke-dasharray: 156;
-  stroke-dashoffset: 0;
-  -webkit-animation: animate-lotus 2s linear forwards;
-          animation: animate-lotus 2s linear forwards;
+	stroke-dasharray: 156;
+	stroke-dashoffset: 0;
+	-webkit-animation: animate-lotus 2s linear forwards;
+	animation: animate-lotus 2s linear forwards;
 }
 
 .lasaphire-svgicon.lotus:hover path {
-  -webkit-animation: animate-lotus-hover 0.5s linear forwards;
-          animation: animate-lotus-hover 0.5s linear forwards;
+	-webkit-animation: animate-lotus-hover 0.5s linear forwards;
+	animation: animate-lotus-hover 0.5s linear forwards;
 }
 
 .lasaphire-svgicon.batch {
-  background: url("../img/feature-texture-02.jpg");
+	background: url("../img/feature-texture-02.jpg");
 }
 
 .lasaphire-svgicon.batch path {
-  stroke-dasharray: 97;
-  stroke-dashoffset: 0;
-  -webkit-animation: animate-batch 2s linear forwards;
-          animation: animate-batch 2s linear forwards;
+	stroke-dasharray: 97;
+	stroke-dashoffset: 0;
+	-webkit-animation: animate-batch 2s linear forwards;
+	animation: animate-batch 2s linear forwards;
 }
 
 .lasaphire-svgicon.batch:hover path {
-  -webkit-animation: animate-batch-hover 0.5s linear forwards;
-          animation: animate-batch-hover 0.5s linear forwards;
+	-webkit-animation: animate-batch-hover 0.5s linear forwards;
+	animation: animate-batch-hover 0.5s linear forwards;
 }
 
 .lasaphire-svgicon.beauty {
-  background: url("../img/feature-texture-03.jpg");
+	background: url("../img/feature-texture-03.jpg");
 }
 
 .lasaphire-svgicon.beauty path {
-  stroke-dasharray: 236;
-  stroke-dashoffset: 0;
-  -webkit-animation: animate-beauty 2s linear forwards;
-          animation: animate-beauty 2s linear forwards;
+	stroke-dasharray: 236;
+	stroke-dashoffset: 0;
+	-webkit-animation: animate-beauty 2s linear forwards;
+	animation: animate-beauty 2s linear forwards;
 }
 
 .lasaphire-svgicon.beauty:hover path {
-  -webkit-animation: animate-beauty-hover 0.5s linear forwards;
-          animation: animate-beauty-hover 0.5s linear forwards;
+	-webkit-animation: animate-beauty-hover 0.5s linear forwards;
+	animation: animate-beauty-hover 0.5s linear forwards;
 }
 
 .lasaphire-svgicon.trusted {
-  background: url("../img/feature-texture-04.jpg");
+	background: url("../img/feature-texture-04.jpg");
 }
 
 .lasaphire-svgicon.trusted path {
-  stroke-dasharray: 179;
-  stroke-dashoffset: 0;
-  -webkit-animation: animate-trusted 2s linear forwards;
-          animation: animate-trusted 2s linear forwards;
+	stroke-dasharray: 179;
+	stroke-dashoffset: 0;
+	-webkit-animation: animate-trusted 2s linear forwards;
+	animation: animate-trusted 2s linear forwards;
 }
 
 .lasaphire-svgicon.trusted:hover path {
-  -webkit-animation: animate-trusted-hover 0.5s linear forwards;
-          animation: animate-trusted-hover 0.5s linear forwards;
+	-webkit-animation: animate-trusted-hover 0.5s linear forwards;
+	animation: animate-trusted-hover 0.5s linear forwards;
 }
 /*# sourceMappingURL=frontend.css.map */
